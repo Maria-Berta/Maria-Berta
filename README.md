@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Maria-Berta
+- 👋 Hi, I’m Mariamawit Berta
 - 👀 I’m interested in Software Engineering, AI/ML, Data Analytics and Data Science
 - 🌱 I’m currently learning Systems Programming, Full Stack development and Machine Learning
 - 💞️ I’m looking to collaborate on any projects, hackathons or open source contributions
